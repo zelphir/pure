@@ -2,6 +2,8 @@
 
 > Port of the [`pure`](https://github.com/sindresorhus/pure) ZSH theme to Fish 🐟
 
+My fork
+
 <p align=center>
   <img width=585 src=screenshot.png>
 </p>
